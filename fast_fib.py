@@ -1,4 +1,4 @@
-n = int(input("fibonacci count: "))
+n = int(input("How high do you want the Fibonacci sequence to go? Enter a number: "))
 
 cache = {}
 def hash_fibonacci(n,count=0):
@@ -12,4 +12,4 @@ def hash_fibonacci(n,count=0):
     return cache[n]
 
 
-print("Your final, freaky-fast Fibonacci number is", hash_fibonacci(n), "wooow!")
+print("Your final, freaky-fast Fibonacci number at", n, "is", hash_fibonacci(n), "wooow!")

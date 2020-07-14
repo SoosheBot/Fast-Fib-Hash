@@ -1,2 +1,2 @@
 # Fast Fibonacci
-What's the difference between rendering a Fibonacci sequence recursively vs with a hash? Go look.
+Is there a difference between rendering a Fibonacci sequence recursively vs with a hash in Python? Go see for yourself.

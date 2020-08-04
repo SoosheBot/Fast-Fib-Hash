@@ -2,7 +2,7 @@
 ## Is there a difference between rendering a Fibonacci sequence recursively vs with a hash in Python? Go check out the difference.
 
 
-Along with being a fun little way to show the difference between recursing vs hashing through a Fibonacci sequence, this page is also my first attempt at posting Python code online. While it hasn't gone live yet, I am learning how to do so with Flask and Heroku. Until then, you can view this program in the terminal.
+Along with being a fun little way to show the difference between recursing vs hashing through a Fibonacci sequence, this page is also my first attempt at posting Python code online. While it hasn't gone live yet, I am learning how to do so with Flask. Until then, you can view this program in the terminal.
 
 Quick Notes on viewing in Terminal (MacOS and Python 3)
 ```
@@ -18,6 +18,8 @@ Quick Notes on viewing in Terminal (MacOS and Python 3)
 
 
 My thanks to [Bhavani Ravi's](https://medium.com/bhavaniravi/build-your-1st-python-web-app-with-flask-b039d11f101c) article on Flask, which helped me figure out how to get started.
+
+And to [PzanettiD](https://github.com/PzanettiD/fibonacci-web) for an excellent example of a Fibonacci game on a Flask app.
 
 Quick Installation Fieldnotes for Flask (MacOS)
 ```

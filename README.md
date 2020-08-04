@@ -1,5 +1,5 @@
 # Fast Fibonacci
-## Is there a difference between rendering a Fibonacci sequence recursively vs with a hash in Python? Go check out the difference.
+## Is there a difference between rendering a Fibonacci sequence recursively vs with a hash in Python? Yes! How big of a difference? Let's find out.
 
 
 Along with being a fun little way to show the difference between recursing vs hashing through a Fibonacci sequence, this page is also my first attempt at posting Python code online. While it hasn't gone live yet, I am learning how to do so with Flask. Until then, you can view this program in the terminal.
